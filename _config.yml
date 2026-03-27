@@ -1,0 +1,14 @@
+title: Index of Unresolved Fragments and Vestiges
+description: The following is an attempt to <a href="https://en.wikipedia.org/wiki/Flavor_text" target="_blank">collect</a>, <a href="https://design-encyclopedia.com/?T=Narrative%20Design" target="_blank">categorize</a> and <a href="https://medium.com/@rd.lobo" target="_blank">preserve</a> fragments of that which no longer exists.<br>While some attempt has been made to infer more from whatever fragment has reached us, the main effort is to preserve.<br>These are traces of worlds and realities no longer accessible from ours.<br><br> {{ site.fragments | size }} items indexed.
+
+collections:
+  fragments:
+    output: false
+    permalink: /fragments/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: fragments
+    values:
+      layout: fragment
