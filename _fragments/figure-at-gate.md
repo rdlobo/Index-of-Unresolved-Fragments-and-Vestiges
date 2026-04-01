@@ -1,0 +1,6 @@
+---
+text: "All who walked the path knew of the hooded figures who stood at the gates leading into the old city. Most kept their distance, afraid. A few knew the figures stood not impede, but to warn."
+tags: [location, medieval]
+image: "/vestiges/gri_96_p_21_b011_f004_015.jpg"
+source: "1st century B.C.–4th century A.D. Lamp from the Getty museum Collection"
+---
