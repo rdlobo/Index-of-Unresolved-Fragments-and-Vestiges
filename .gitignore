@@ -1,0 +1,6 @@
+_site/
+.jekyll-cache/
+
+_layouts/
+_site/
+old.html
