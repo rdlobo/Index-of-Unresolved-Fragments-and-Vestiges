@@ -12,3 +12,6 @@ defaults:
       type: fragments
     values:
       layout: fragment
+
+plugins:
+  - jekyll-feed
